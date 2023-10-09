@@ -20,6 +20,7 @@ function Task(props) {
             <span>✔️</span>
           )}
         </button>
+        {/*  <button onClick={() => deleteTask(task._id)}>Delete Task</button> */}
       </div>
     </div>
   );
